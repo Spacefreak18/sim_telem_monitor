@@ -1,0 +1,3 @@
+[submodule "sim_telem_monitor/pysimapi"]
+	path = sim_telem_monitor/pysimapi
+	url = https://github.com/spacefreak18/pysimapi.git
