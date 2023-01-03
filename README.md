@@ -7,8 +7,14 @@
 ```bash
 $ python -m sim_telem_monitor
 #or
-$ sim_telem_monitor
+$ sim_telem_monitor -s rf2 -n sessionname
+#or
+$ sim_telem_monitor -s ac -n sessionname
 ```
+
+## Dependencies
+- [wine-linux-shm-adapter](https://github.com/spacefreak18/wine-linux-shm-adapter)
+- [simapi](https://github.com/spacefreak18/simapi)
 
 ## Development
 
